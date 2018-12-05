@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 name: White Paper
 description: >
     A simple jekyll theme aimed at programmers who like clean interface to write posts
@@ -35,3 +36,6 @@ google_analytics:
 google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
+=======
+theme: jekyll-theme-hacker
+>>>>>>> aff3ea105cdda9b1e8890461c46f5ae155a334d1
